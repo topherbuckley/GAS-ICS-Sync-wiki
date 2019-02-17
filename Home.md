@@ -1,1 +1,1 @@
-Welcome to the GAS-ICS-Sync wiki!
+For developing with this repository, I definitely recommend checking out these Chrome extensions: https://github.com/derekantrican/Google-Apps-Script-Library/wiki/Developing-in-Google-Apps-Script
