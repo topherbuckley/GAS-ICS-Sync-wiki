@@ -15,3 +15,18 @@ A useful method to add is the following:
     }
 
 Then, as the very first line of `main()` you can call the method
+
+---------------
+
+### Using an explicit ics string instead of an url
+
+You can add a string like this:
+![image](https://i.imgur.com/H1BT22B.png)
+
+and change 
+
+`var jcalData = ICAL.parse(response);`
+
+to
+
+`var jcalData = ICAL.parse(sourceCalendarString);`
