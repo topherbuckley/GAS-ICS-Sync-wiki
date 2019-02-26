@@ -20,4 +20,3 @@ https://www.lakecountystars.org/page/show/2220833-calendar#
 - www.therapynotes.com/ical/zxofi_fbup/TherapyNotes.ics
 - https://pastebin.com/raw/D0qFEDZi
 - http://ical.8to18.com/link/jacksonville/2018-2019/BBB%20V/EDT (this one is currently failing as of [#23](https://github.com/derekantrican/GAS-ICS-Sync/issues/23)
-- 
