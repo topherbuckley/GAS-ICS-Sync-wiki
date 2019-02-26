@@ -14,7 +14,7 @@ IMPORTANT NOTE: until [#7](https://github.com/derekantrican/GAS-ICS-Sync/issues/
 
 #### Test Calendars (if anyone wants me to remove a calendar for privacy reasons, I can absolutely do so)
 
-- https://www.lakecountystars.org/ical_feed?tags=791152%2C2220833%2C4032174%2C4362277%2C4362294%2C4362295%2C4380842%2C4380884%2C4426309%2C4426311%2C4426360%2C4426361%2C4426362%2C4426363%2C4426364%2C4426366%2C4426368%2C4426369%2C4426370%2C4426371%2C4426372%2C4426373%2C4426374%2C4426376 . Can be verified at this page (make sure you go to "Show Tag Menu" and click "Select All Tags"): 
+- https://www.lakecountystars.org/ical_feed?tags=791152%2C2220833%2C4032174%2C4362277%2C4362294%2C4362295%2C4380842%2C4380884%2C4426309%2C4426311%2C4426360%2C4426361%2C4426362%2C4426363%2C4426364%2C4426366%2C4426368%2C4426369%2C4426370%2C4426371%2C4426372%2C4426373%2C4426374%2C4426376 . This is a great calendar for testing recurrence. Can be verified at this page (make sure you go to "Show Tag Menu" and click "Select All Tags"): 
 https://www.lakecountystars.org/page/show/2220833-calendar#
 - https://pastebin.com/raw/UdYQe3Pj
 - www.therapynotes.com/ical/zxofi_fbup/TherapyNotes.ics
