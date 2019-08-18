@@ -1,5 +1,12 @@
 # Tips for debugging:
 
+### Developing with Visual Studio Code
+
+1. Follow [these steps](https://yagisanatode.com/2019/04/01/working-with-google-apps-script-in-visual-studio-code-using-clasp/) to get clasp set up with Visual Studio code on your computer
+2. Clone the repo with `clasp clone https://github.com/derekantrican/GAS-ICS-Sync.git`
+3. You should be set up!
+
+*(I have not yet figured out how to debug with Visual Studio Code yet, but [this](https://www.npmjs.com/package/gas-local) should be on the right track. Please feel free to let me know if you figure it out and I'll update this*
 
 ### Method to ensure a fresh calendar
 A useful method to add is the following:
@@ -14,7 +21,7 @@ A useful method to add is the following:
       cal.setSelected(true);
     }
 
-Then, as the very first line of `main()` you can call the method
+Then, as the very first line of `main()` you can call the method. This will create a fresh calendar every time you run the `main()` function.
 
 ---------------
 
