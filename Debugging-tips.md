@@ -3,7 +3,8 @@
 ### Developing with Visual Studio Code
 
 1. Follow [these steps](https://yagisanatode.com/2019/04/01/working-with-google-apps-script-in-visual-studio-code-using-clasp/) to get clasp set up with Visual Studio code on your computer
-2. Clone the repo with `clasp clone https://github.com/derekantrican/GAS-ICS-Sync.git`
+2. Create a new folder where you want the repo to be and `cd` to that folder
+2. Clone the repo with `clasp clone 1QeZFLSM1EkuFvYcryECI_xH-IZVe1-IxGRq_n6OoXp1CmVtSeTeigEx4`
 3. You should be set up!
 
 *(I have not yet figured out how to debug with Visual Studio Code yet, but [this](https://www.npmjs.com/package/gas-local) should be on the right track. Please feel free to let me know if you figure it out and I'll update this*
