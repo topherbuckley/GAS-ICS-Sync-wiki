@@ -22,6 +22,8 @@ If developing with VS Code and clasp, the development workflow would be like thi
 
 *My note above about debugging in VS Code would get rid of step 4 as you would be able to test edits in VS Code*
 
+---------------
+
 ### Method to ensure a fresh calendar
 A useful method to add is the following:
 
