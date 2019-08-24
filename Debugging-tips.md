@@ -1,13 +1,26 @@
 # Tips for debugging:
 
-### Developing with Visual Studio Code
+### Developing with Visual Studio Code (via [clasp](https://github.com/google/clasp))
 
 1. Follow [these steps](https://yagisanatode.com/2019/04/01/working-with-google-apps-script-in-visual-studio-code-using-clasp/) to get clasp set up with Visual Studio code on your computer
 2. Create a new folder where you want the repo to be and `cd` to that folder
-2. Clone the repo with `clasp clone 1QeZFLSM1EkuFvYcryECI_xH-IZVe1-IxGRq_n6OoXp1CmVtSeTeigEx4`
-3. You should be set up!
+3. Make a copy of the script to your Google Drive.
+4. Clone the repo with `clasp clone YOUR_GAS_SCRIPT_ID` (or, if you don't know the ID you can just use `clasp clone` and it will list your GAS scripts that you can choose from)
+5. You should be set up!
 
 *(I have not yet figured out how to debug with Visual Studio Code yet, but [this](https://www.npmjs.com/package/gas-local) should be on the right track. Please feel free to let me know if you figure it out and I'll update this*
+
+**Development workflow**
+
+If developing with VS Code and clasp, the development workflow would be like this:
+
+1. `clasp pull`
+2. Do edits in VS Code
+3. `clasp push`
+4. Test edits by running functions in Google Apps Script IDE online
+5. Use [git chrome extension](https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo) from GAS IDE to commit to this Github repository
+
+*My note above about debugging in VS Code would get rid of step 4 as you would be able to test edits in VS Code*
 
 ### Method to ensure a fresh calendar
 A useful method to add is the following:
