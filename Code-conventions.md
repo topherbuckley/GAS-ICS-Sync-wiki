@@ -16,7 +16,7 @@ if (true){
 
 }
 ```
-**6. `if-elseif-else` statements must follow this form:**
+**6. `if/elseif/else` statements must follow this form:**
 ```
 if (true){
 
