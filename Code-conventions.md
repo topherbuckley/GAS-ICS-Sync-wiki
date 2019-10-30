@@ -56,7 +56,7 @@ for (var i = 0; i < 5; i++) { //last space before curly bracket is optional
 
 **6. Proper indentation should be respected. GAS uses multiples of two spaces to differentiate indentation levels**
 
-**7. The bracket convention in GAS-ICS-Sync is the following (I don't know if there's a name for this):**
+**7. The bracket convention in GAS-ICS-Sync is the following ("Egyptian brackets"):**
 ```javascript
 if (true){
 
