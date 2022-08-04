@@ -27,11 +27,7 @@ Here are some manual instructions to get the code running from GitHub:
 8. For `appsscript.json` you should click the "Project Settings" option in the sidebar, then check the box for `Show "appsscript.json" manifest file in editor` and copy the contents from GitHub to there
 
    ![](https://i.imgur.com/tydATjG.png)
-9. Add the needed services by clicking the "+" icon next to services (add "Google Calendar API" and "Tasks API" WITHOUT changing the Identifier box)
-
-   ![](https://i.imgur.com/yoAvDr9.png)
-
-10. You should be all set up! Open back up the `Code.gs` file and Click "Run" > "Run Function" > "Install"
+9. You should be all set up! Open back up the `Code.gs` file and Click "Run" > "Run Function" > "Install"
 
    ![](https://i.imgur.com/7QktuS0.png)
 
